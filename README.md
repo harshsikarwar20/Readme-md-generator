@@ -39,7 +39,7 @@ Give a ⭐ if this project helped you!
 
 ## 📝 License
 
- Copyright @ 2019 [@HarshSikarwar](https://github.com/Anushri-glitch)
+ Copyright @ 2019 [@HarshSikarwar](https://github.com/harshsikarwar20)
 
 This project is [MIT](http://it.mitindia.edu/) licensed.
 
